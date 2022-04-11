@@ -6,7 +6,7 @@ import (
 	"github.com/limitcool/blog/route"
 )
 
-// @title           Blog
+// @title           Blog1
 // @version         1.0
 // @description     个人自用的Go博客系统的后端服务,采用gin框架+mysql数据库构建,目前正在实现中。
 // @termsOfService  https://github.com/limitcool/cool-blog
